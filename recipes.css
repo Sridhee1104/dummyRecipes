@@ -14,8 +14,9 @@ body{
     
 }
 .recepie{
-    border: 2px solid black;
+/*     border: 2px solid black; */
     padding: 20px;
+    box-shadow: 25px 25px 25px #080000f6
 }
 
 #popup-container {
