@@ -16,7 +16,7 @@ function displayData(data) {
         const title = document.createElement('h3')
         title.textContent = r.name;
         const p1 = document.createElement('p')
-        p1.textContent = "INFREDIENTS -:" + " " + r.ingredients
+        p1.textContent = "INGREDIENTS -:" + " " + r.ingredients
         // const p = document.createElement('p')
         // p.textContent = "INSTRUCTION -:" + " " + r.instructions
         const btn = document.createElement('button')
